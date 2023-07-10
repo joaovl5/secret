@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/joaovl5/secret">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,9 +41,9 @@
     <br />
     <!-- [ ] change links -->
     <br />
-    <a href="https://github.com/joaovl5/prototext/issues">Report Bug</a>
+    <a href="https://github.com/joaovl5/secret/issues">Report Bug</a>
     ·
-    <a href="https://github.com/joaovl5/prototext/issues">Request Feature</a>
+    <a href="https://github.com/joaovl5/secret/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,7 +85,7 @@ The code runs in iterations: each iteration runs by pressing **ENTER**. You can 
 - [ ] Introduce "conflicting ideas", for showing how different theories could spread and interact.
 
 <!-- [X] Change link here -->
-Please go to [open issues](https://github.com/joaovl5/prototext/issues) for proposing features and reporting bugs.
+Please go to [open issues](https://github.com/joaovl5/secret/issues) for proposing features and reporting bugs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,8 +102,8 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 ## Contact
 
 <!-- [X] CHANGE LINK  -->
-Project Link: [https://github.com/joaovl5/prototext](https://github.com/joaovl5/prototext)
-Linkedin: 
+Project Link: [https://github.com/joaovl5/secret](https://github.com/joaovl5/secret)
+Linkedin: [https://www.linkedin.com/in/joaovieiral/](https://www.linkedin.com/in/joaovieiral/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,15 +112,15 @@ Linkedin:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/joaovl5/prototext.svg?style=for-the-badge
-[contributors-url]: https://github.com/joaovl5/prototext/graphs/contributors
+[contributors-url]: https://github.com/joaovl5/secret/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/joaovl5/prototext.svg?style=for-the-badge
-[forks-url]: https://github.com/joaovl5/prototext/network/members
+[forks-url]: https://github.com/joaovl5/secret/network/members
 [stars-shield]: https://img.shields.io/github/stars/joaovl5/prototext.svg?style=for-the-badge
-[stars-url]: https://github.com/joaovl5/prototext/stargazers
+[stars-url]: https://github.com/joaovl5/secret/stargazers
 [issues-shield]: https://img.shields.io/github/issues/joaovl5/prototext.svg?style=for-the-badge
-[issues-url]: https://github.com/joaovl5/prototext/issues
+[issues-url]: https://github.com/joaovl5/secret/issues
 [license-shield]: https://img.shields.io/github/license/joaovl5/prototext.svg?style=for-the-badge
-[license-url]: https://github.com/joaovl5/prototext/blob/master/LICENSE.txt
+[license-url]: https://github.com/joaovl5/secret/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joaovieiral/
 [product-screenshot]: images/screenshot.png
